@@ -1,0 +1,36 @@
+nav{
+    /* border: 1px solid black; */
+    height: 5rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+#logo{
+    width: 20%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+
+}
+
+#menu{
+   width: 60%;
+   height: 100%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    gap: 3rem;
+}
+
+#contact{
+  width: 20%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
